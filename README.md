@@ -1,2 +1,4 @@
-# random-stuff
-This serves as a temporary repository of the work I have done since March 2019, and will be updated from time to time.
+# nyu capstone project
+This repository saved the python code I used to extract sentimental score from reviews received on Airbnb Tokyo listing from March 2019 to Nov 2019.
+
+Future update will be on the visualization of sentimental score extracted
